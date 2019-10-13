@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>88bb69f3-689e-42d0-99bc-54904729b29d</TargetProject>
+    <FriendlyName>Wordcount</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>
